@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: e17f6687db708494684dc64092d6524b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4141409724816039055
+    second: SunReactionIcon_SpriteSheet_0
+  - first:
+      213: -4224372212604419587
+    second: SunReactionIcon_SpriteSheet_1
+  - first:
+      213: 242408350933055494
+    second: SunReactionIcon_SpriteSheet_2
+  - first:
+      213: -2435723640688520230
+    second: SunReactionIcon_SpriteSheet_3
+  - first:
+      213: -8310916557887579186
+    second: SunReactionIcon_SpriteSheet_4
+  - first:
+      213: 1421998508175004302
+    second: SunReactionIcon_SpriteSheet_5
+  - first:
+      213: -8159231512610375142
+    second: SunReactionIcon_SpriteSheet_6
+  - first:
+      213: -5326688216617513530
+    second: SunReactionIcon_SpriteSheet_7
+  - first:
+      213: -3083360021445913736
+    second: SunReactionIcon_SpriteSheet_8
+  - first:
+      213: -1724307119465375561
+    second: SunReactionIcon_SpriteSheet_9
+  - first:
+      213: -3826807125375083970
+    second: SunReactionIcon_SpriteSheet_10
+  - first:
+      213: -2508469825545078673
+    second: SunReactionIcon_SpriteSheet_11
+  - first:
+      213: 4081452914511260541
+    second: SunReactionIcon_SpriteSheet_12
+  - first:
+      213: 1746232611944035464
+    second: SunReactionIcon_SpriteSheet_13
+  - first:
+      213: -1470253557621591323
+    second: SunReactionIcon_SpriteSheet_14
+  - first:
+      213: 4782164278559122966
+    second: SunReactionIcon_SpriteSheet_15
+  - first:
+      213: -7435782494148911806
+    second: SunReactionIcon_SpriteSheet_16
+  - first:
+      213: -4962655626115946662
+    second: SunReactionIcon_SpriteSheet_17
+  - first:
+      213: -1597761900541594589
+    second: SunReactionIcon_SpriteSheet_18
+  - first:
+      213: -5793742632431837633
+    second: SunReactionIcon_SpriteSheet_19
+  - first:
+      213: 3638209090144227973
+    second: SunReactionIcon_SpriteSheet_20
+  - first:
+      213: -5398655951620767337
+    second: SunReactionIcon_SpriteSheet_21
+  - first:
+      213: -9016026343377693783
+    second: SunReactionIcon_SpriteSheet_22
+  - first:
+      213: -3117367735491056607
+    second: SunReactionIcon_SpriteSheet_23
+  - first:
+      213: -7334533861568611527
+    second: SunReactionIcon_SpriteSheet_24
+  - first:
+      213: 8642174546356182273
+    second: SunReactionIcon_SpriteSheet_25
+  - first:
+      213: 2746508481860174090
+    second: SunReactionIcon_SpriteSheet_26
+  - first:
+      213: 5418692581654933906
+    second: SunReactionIcon_SpriteSheet_27
+  - first:
+      213: 7822564717470816413
+    second: SunReactionIcon_SpriteSheet_28
+  - first:
+      213: 958119106746228663
+    second: SunReactionIcon_SpriteSheet_29
+  - first:
+      213: -126462804284217622
+    second: SunReactionIcon_SpriteSheet_30
+  - first:
+      213: 3619443274062542605
+    second: SunReactionIcon_SpriteSheet_31
+  - first:
+      213: -1340282612110487102
+    second: SunReactionIcon_SpriteSheet_32
+  - first:
+      213: -1129432093384445096
+    second: SunReactionIcon_SpriteSheet_33
+  - first:
+      213: -7930187660558169967
+    second: SunReactionIcon_SpriteSheet_34
+  - first:
+      213: -2665327413958638760
+    second: SunReactionIcon_SpriteSheet_35
+  - first:
+      213: -2193453723148051102
+    second: SunReactionIcon_SpriteSheet_36
+  - first:
+      213: 2734384089673087953
+    second: SunReactionIcon_SpriteSheet_37
+  - first:
+      213: 48682748299659686
+    second: SunReactionIcon_SpriteSheet_38
+  - first:
+      213: -456348175083775591
+    second: SunReactionIcon_SpriteSheet_39
+  - first:
+      213: 6287090358957963964
+    second: SunReactionIcon_SpriteSheet_40
+  - first:
+      213: 5952053574331859798
+    second: SunReactionIcon_SpriteSheet_41
+  - first:
+      213: -561184961192417007
+    second: SunReactionIcon_SpriteSheet_42
+  - first:
+      213: 5460983499104629638
+    second: SunReactionIcon_SpriteSheet_43
+  - first:
+      213: -6313942111143171568
+    second: SunReactionIcon_SpriteSheet_44
+  - first:
+      213: -8059626486100800799
+    second: SunReactionIcon_SpriteSheet_45
+  - first:
+      213: 793716927688832112
+    second: SunReactionIcon_SpriteSheet_46
+  - first:
+      213: 1268599282383544805
+    second: SunReactionIcon_SpriteSheet_47
+  - first:
+      213: -6044396104325827496
+    second: SunReactionIcon_SpriteSheet_48
+  - first:
+      213: 2936114617088925751
+    second: SunReactionIcon_SpriteSheet_49
+  - first:
+      213: -3871894921160590518
+    second: SunReactionIcon_SpriteSheet_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3213
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173edf22cc1c686c0800000000000000
+      internalID: -4141409724816039055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 3187
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cea4bad30065c0800000000000000
+      internalID: -4224372212604419587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 3140
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f3ff5c153d5300800000000000000
+      internalID: 242408350933055494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 3092
+        width: 360
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35db9f042923ed0800000000000000
+      internalID: -2435723640688520230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2083
+        width: 452
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd2397c61b9ac80800000000000000
+      internalID: -8310916557887579186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2061
+        width: 494
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8218eeeb14fbb310800000000000000
+      internalID: 1421998508175004302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 2013
+        width: 670
+        height: 581
+      alignment: 9
+      pivot: {x: 0.5489338, y: 0.50940424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7fa23b2694ce80800000000000000
+      internalID: -8159231512610375142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 6345
+        y: 1957
+        width: 759
+        height: 696
+      alignment: 9
+      pivot: {x: 0.5071994, y: 0.49999964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd014bf94dc316b0800000000000000
+      internalID: -5326688216617513530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 591
+        width: 890
+        height: 848
+      alignment: 9
+      pivot: {x: 0.4754413, y: 0.4742249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87353179564b535d0800000000000000
+      internalID: -3083360021445913736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 466
+        width: 1109
+        height: 1017
+      alignment: 9
+      pivot: {x: 0.4704363, y: 0.51074517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d4a434e38d7230800000000000000
+      internalID: 3638209090144227973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 406
+        width: 1055
+        height: 1017
+      alignment: 9
+      pivot: {x: 0.4741026, y: 0.5161187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12caac3af82ecb4d0800000000000000
+      internalID: -3117367735491056607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunReactionIcon_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 401
+        width: 1153
+        height: 1065
+      alignment: 9
+      pivot: {x: 0.46682525, y: 0.5153921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a018fd1a9ee8d1620800000000000000
+      internalID: 2746508481860174090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

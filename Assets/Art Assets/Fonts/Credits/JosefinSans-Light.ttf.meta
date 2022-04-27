@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d964f8d749c344ccdadc5b5e287ac651
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Josefin Sans
+  fontNames:
+  - Josefin Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60b26930da0784e60b237f53d7978247, type: 3}
+  - {fileID: 12800000, guid: d4ea1d16e454d46e98167ec1519d19a8, type: 3}
+  - {fileID: 12800000, guid: cb3681d6a3ba74de3a6c8ccb67d96070, type: 3}
+  - {fileID: 12800000, guid: a8c554b7f48344685a2498055b1a7fa9, type: 3}
+  - {fileID: 12800000, guid: 792945f790b3d44adbd0b0aeb9aed055, type: 3}
+  - {fileID: 12800000, guid: c2ae9c099c0cf40649f78ef323b7b29b, type: 3}
+  - {fileID: 12800000, guid: 869ccd3b9fcfb43c8842e93f18c6bcc5, type: 3}
+  - {fileID: 12800000, guid: e8494d8d78bf3482fbb659730c3c8d42, type: 3}
+  - {fileID: 12800000, guid: d083d61e5bd9546e8a6fe105ea943d8a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

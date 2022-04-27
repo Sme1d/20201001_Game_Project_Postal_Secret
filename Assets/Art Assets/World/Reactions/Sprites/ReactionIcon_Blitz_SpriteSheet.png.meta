@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 16f06171df3bbb74ebda6f461569d980
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431197467964164871
+    second: ReactionIcon_Blitz_SpriteSheet_0
+  - first:
+      213: -1258005201118113545
+    second: ReactionIcon_Blitz_SpriteSheet_1
+  - first:
+      213: 1151344580370806994
+    second: ReactionIcon_Blitz_SpriteSheet_2
+  - first:
+      213: 7290146804602751308
+    second: ReactionIcon_Blitz_SpriteSheet_3
+  - first:
+      213: -6531695884720057343
+    second: ReactionIcon_Blitz_SpriteSheet_4
+  - first:
+      213: -6681353901717177213
+    second: ReactionIcon_Blitz_SpriteSheet_5
+  - first:
+      213: -7053268764272622147
+    second: ReactionIcon_Blitz_SpriteSheet_6
+  - first:
+      213: 1862116830195454942
+    second: ReactionIcon_Blitz_SpriteSheet_7
+  - first:
+      213: 7249591888965499494
+    second: ReactionIcon_Blitz_SpriteSheet_8
+  - first:
+      213: -9019179096481730343
+    second: ReactionIcon_Blitz_SpriteSheet_9
+  - first:
+      213: -8205338885383276419
+    second: ReactionIcon_Blitz_SpriteSheet_10
+  - first:
+      213: -7687088959541265521
+    second: ReactionIcon_Blitz_SpriteSheet_11
+  - first:
+      213: -5746948949112001585
+    second: ReactionIcon_Blitz_SpriteSheet_12
+  - first:
+      213: 1827912426759256268
+    second: ReactionIcon_Blitz_SpriteSheet_13
+  - first:
+      213: -73643289445712446
+    second: ReactionIcon_Blitz_SpriteSheet_14
+  - first:
+      213: 870936343607855969
+    second: ReactionIcon_Blitz_SpriteSheet_15
+  - first:
+      213: 7985051749922631640
+    second: ReactionIcon_Blitz_SpriteSheet_16
+  - first:
+      213: -7765502856049020308
+    second: ReactionIcon_Blitz_SpriteSheet_17
+  - first:
+      213: 2968455351940090330
+    second: ReactionIcon_Blitz_SpriteSheet_18
+  - first:
+      213: 723327472589835742
+    second: ReactionIcon_Blitz_SpriteSheet_19
+  - first:
+      213: 4411994698757824006
+    second: ReactionIcon_Blitz_SpriteSheet_20
+  - first:
+      213: 6097074048867259058
+    second: ReactionIcon_Blitz_SpriteSheet_21
+  - first:
+      213: -4480225394914180704
+    second: ReactionIcon_Blitz_SpriteSheet_22
+  - first:
+      213: -3622213999510373914
+    second: ReactionIcon_Blitz_SpriteSheet_23
+  - first:
+      213: 2766141869661893787
+    second: ReactionIcon_Blitz_SpriteSheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4938faef0e9f20800000000000000
+      internalID: 3431197467964164871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 5200
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d2cd4feaaa8ee0800000000000000
+      internalID: -1258005201118113545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 5200
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b217bbc56aff00800000000000000
+      internalID: 1151344580370806994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 5200
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49cbc8d4edcb2560800000000000000
+      internalID: 7290146804602751308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 5200
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10451620331ca55a0800000000000000
+      internalID: -6531695884720057343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3a7596001743a0800000000000000
+      internalID: -6681353901717177213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3900
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50c20cd61cd1e90800000000000000
+      internalID: -7053268764272622147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 3900
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39312246197d910800000000000000
+      internalID: 1862116830195454942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 3900
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a775cb969bb9460800000000000000
+      internalID: 7249591888965499494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 3900
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f39cb56075d280800000000000000
+      internalID: -9019179096481730343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b70be1c7c02e80800000000000000
+      internalID: -8205338885383276419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2600
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b37b9b159f15590800000000000000
+      internalID: -7687088959541265521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 2600
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbefd1216cbe30b0800000000000000
+      internalID: -5746948949112001585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 2600
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f18ddaac0e5910800000000000000
+      internalID: 1827912426759256268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 7544
+        y: 2600
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3f7481dd5afef0800000000000000
+      internalID: -73643289445712446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b49b67dff261c00800000000000000
+      internalID: 870936343607855969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1300
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfef3b824a90de60800000000000000
+      internalID: 7985051749922631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReactionIcon_Blitz_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 1300
+        width: 1886
+        height: 1300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62baeabb446b3490800000000000000
+      internalID: -7765502856049020308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1243bd8401deceb428cca4fa66a8a408
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Clickable
+  - Shipable
+  - IslandUI
+  - InformationUI
+  - MessageRelation
+  - CharacterImage
+  - PierReference
+  - Relation
+  - ProceedButton
+  - IslandCharacter
+  - Shipping
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Outro
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sea
+    uniqueID: 1173305299
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI/Icons
+    uniqueID: 1805136565
+    locked: 0
